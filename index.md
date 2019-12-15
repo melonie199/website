@@ -80,7 +80,7 @@ footer {
     <ul>
       <li><a href="lyrics.txt">Lyrics</a></li>
 	  <br>
-      <li><a href="lyricsoutput.txt">Word Frequency</a></li>
+      <li><a href="lyricsOutput.txt">Word Frequency</a></li>
 	  <br>
 	  <li><a href="lyricsinfo.txt">Info</a></li>
     </ul>
